@@ -11,9 +11,7 @@ import 'package:proj_nine/screens/users/Itemdata.dart';
 import 'package:proj_nine/screens/users/homePage.dart';
 import 'package:proj_nine/screens/users/mytable.dart';
 import 'package:provider/provider.dart';
-import 'package:proj_nine/admin/adminMain.dart';
 import 'package:proj_nine/provider/average.dart';
-
 import 'admin/addfood.dart';
 import 'admin/editItem.dart';
 
